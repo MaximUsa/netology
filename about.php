@@ -1,19 +1,15 @@
 <?php
-    $name = "Курылёв Алексей";
-    $age = 29;
-    $email = "alekseykurylev@gmail.com";
-    $city = "Нижний Новгород";
-    $about = "Будущий Back-end разработчик";
+    $name = "Усанов Максим";
+    $age = 35;
+    $email = "max.usanov@gmail.com";
+    $city = "Казань";
+    $about = "Будущий WEB-разработчик";
 ?>
 <!doctype html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title><?= "$name - $about" ?></title>
-    <meta name="description" content="Нетология - урок 1.1">
 </head>
 <body>
 <h1>Моя страница</h1>
